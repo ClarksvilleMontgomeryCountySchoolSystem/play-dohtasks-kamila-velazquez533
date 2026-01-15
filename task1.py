@@ -1,7 +1,6 @@
 def main():
     # Enter your color.
     color1 = "pink"
-
     print(f"1) Use {color1} to roll a medium-sized ball.\n")
     choice1 = input("big or small? ")
     # == Is used to test for equality.
